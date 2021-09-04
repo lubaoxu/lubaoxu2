@@ -3,7 +3,7 @@
 
 int main(char * argv[])
 {
-	printf("hello  world!  Â½±¦Û×ÕæÅ£ ");
+	printf("hello  world!  lubaoxuzhenniu ");
 }
 
 
